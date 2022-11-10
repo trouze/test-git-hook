@@ -1,0 +1,2 @@
+[build-system]
+requires = ["pre-commit @ git+https://github.com/pre-commit/pre-commit.git@main"]
